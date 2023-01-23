@@ -182,7 +182,7 @@ blockquote {
     'footer aimation-list';
 
   max-width: 100%;
-  height: calc(100vh - 2.55rem);
+  height: 100vh;
   overflow: hidden;
 
   background-color: var(--c-background);
@@ -190,7 +190,7 @@ blockquote {
 
 @media (min-width: 700px) {
   .intro {
-    height: calc(100vh - 2.8rem);
+    height: 100vh;
     grid-column-gap: 1rem;
     column-gap: 1rem;
     grid-template-columns: [callout] 1fr [sidebar] 250px;
