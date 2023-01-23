@@ -3,11 +3,11 @@
 \*-----------------------------------*/
 
 :root {
-  --c-main: #351c75;
-  --c-secondary: #e69138;
-  --c-dark: #333;
-  --c-background: #fce5cd;
-  --c-background-dark: #f7d7b5;
+  --c-main: #000;
+  --c-secondary: #f4ce09;
+  --c-dark: #000;
+  --c-background: #fff;
+  --c-background-dark: #f4ce09;
 }
 
 html,
