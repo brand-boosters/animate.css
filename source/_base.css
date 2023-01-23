@@ -19,6 +19,18 @@
   animation-iteration-count: calc(var(--animate-repeat) * 3);
 }
 
+.animated.delay-03s {
+  animation-delay: calc(var(--animate-delay) * 0.3);
+}
+
+.animated.delay-06s {
+  animation-delay: calc(var(--animate-delay) * 0.6);
+}
+
+.animated.delay-09s {
+  animation-delay: calc(var(--animate-delay) * 0.9);
+}
+
 .animated.delay-1s {
   animation-delay: var(--animate-delay);
 }
